@@ -1,2 +1,2 @@
-# content-moderation
+# content-moderation-platform
 Content Moderation pipeline backend
